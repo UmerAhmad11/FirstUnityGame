@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//This script is used to control the mouse movement of the player
+
 public class MouseMovement : MonoBehaviour
 {
 
