@@ -1,4 +1,4 @@
-# Unity generated folders
+# Unity Generated
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -6,9 +6,10 @@
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
+UserSettings/
 Assets/AssetStoreTools*
 
-# VS/JetBrains
+# IDEs
 .vs/
 .idea/
 *.csproj
@@ -18,16 +19,19 @@ Assets/AssetStoreTools*
 *.user
 *.userprefs
 
-# OS generated files
+# OS
 .DS_Store
 Thumbs.db
 
-# Builds
+# Build Artifacts
 *.apk
 *.aab
 *.exe
 
-# Others
+# Misc
 *.pidb
 *.booproj
 *.svd
+*.bak
+.collab/
+.plastic/
